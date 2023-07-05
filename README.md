@@ -1,2 +1,2 @@
 # Coursera
-Python Project
+Coursera Projects
